@@ -10,7 +10,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 Auch wenn Photovoltaik (noch?) nicht für mobile Anwendungen im Großen geeignet ist, kann man ferngesteuert und im Maßstab 1:8 bei Sonnenschein mit dieser Energiequelle schon sehr flott unterwegs sein. Im oberösterreichischen Wels werden sogar jährlich Rennen ausgetragen – und wer will, ist kommendes Jahr mit dabei.
 
-![Picture](https://github.com/MakeMagazinDE/SolarRacer/blob/master/solarracer.jpg)
+![Picture](https://github.com/MakeMagazinDE/SolarRacer/blob/master/solarracer.jpeg)
 
 Den vollständigen Artikel mit der Bauanleitung unter dem Titel "Elektrorenner mit Solarantrieb" gibt es in der **[Make-Ausgabe 6/19 ab Seite 62](https://www.heise.de/select/make/2019/6/1456381329021210)** zu lesen. Hier gibt es die Lasercutter-Schnittvorlagen für Chassis und Karosserie des Wagens in verschiedenen Dateiformaten (PDF, AI sowie DXF) zum Download. 
 
