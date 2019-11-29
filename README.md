@@ -14,4 +14,4 @@ Auch wenn Photovoltaik (noch?) nicht für mobile Anwendungen im Großen geeignet
 
 Den vollständigen Artikel mit der Bauanleitung unter dem Titel "Elektrorenner mit Solarantrieb" gibt es in der **[Make-Ausgabe 6/19 ab Seite 62](https://www.heise.de/select/make/2019/6/1456381329021210)** zu lesen. Hier gibt es die Lasercutter-Schnittvorlagen für Chassis und Karosserie des Wagens in verschiedenen Dateiformaten (PDF, AI sowie DXF) zum Download. 
 
-Für Fragen rund um den Solar Racer sowie alle anderen Projekte aus der Make-Ausgabe 6/19 hat die Make-Redaktion ein eigenes **[Online-Forum](https://www.heise.de/forum/Make/Heft-Projekte/Artikelforum-Heft-6-2019/forum-437905/) eingerichtet.
+Für Fragen rund um den Solar Racer sowie alle anderen Projekte aus der Make-Ausgabe 6/19 hat die Make-Redaktion ein eigenes [Online-Forum](https://www.heise.de/forum/Make/Heft-Projekte/Artikelforum-Heft-6-2019/forum-437905/) eingerichtet.
